@@ -2,7 +2,7 @@
 
 ### Andy Villamayor ###
 - I’m currently collaborating in Data Science research
-- Systems analyst
+- Data Engineer 
 - Big Data
 - Machine Learning
 - Collaborating on machine learning models
@@ -11,8 +11,9 @@
 - www.linkedin.com/in/andrés-villamayor-70297820
 ***
 ### Tools i use ###
-- Knime,Python,Cython
+- Python,Spark,PySpark
 - Databricks
+- KMine
 ***
 Some libraries that I use 
-- scikit-learn,gudhi,pandas,scipy,numpy,sympy,tensorflow
+- scikit-learn,gudhi,pandas,scipy,numpy,sympy
